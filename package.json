@@ -1,0 +1,30 @@
+{
+  "name": "110-lab3_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clcrane/110-lab3_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/clcrane/110-lab3_/issues"
+  },
+  "homepage": "https://github.com/clcrane/110-lab3_#readme",
+  "dependencies": {
+    "konva": "^10.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
